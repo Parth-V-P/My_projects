@@ -1,0 +1,21 @@
+.Container_middel
+
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.left
+
+{
+  height: 80px;
+   width: 200px;
+   background-color: rgb(131, 131, 128);
+}
+
+.Container_middel_para
+{
+  display: flex;
+  align-items: center ;
+  justify-content: center;
+}

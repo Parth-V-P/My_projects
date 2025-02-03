@@ -1,0 +1,8 @@
+.App
+{
+    background-color: rgb(102, 176, 199);
+    display: flex;
+    justify-content: center;
+    width: 1530px;
+    height: 1500px;
+}
